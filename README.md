@@ -11,3 +11,5 @@ I have a little issue what you can see in the console tab, I didn't find the asw
 It's a little slow, but it's working if you don't want to clicking as fast as possible.
 
 I learning in project based and I share all my project.
+
+You can find bugs and broke the mechanism in functionality, but please don't do that, because it will be not enjoyable.
